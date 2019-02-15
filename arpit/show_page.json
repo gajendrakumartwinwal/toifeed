@@ -1,0 +1,80 @@
+
+{
+  "it": {
+    "upd": "1538565480000",
+    "lpt": "1538565537686",
+    "sec": "/india",
+    "secinfo": {
+      "name": "India",
+      "defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-4440100,tag-alrt,uid-India-01,category-India-01.cms?platform=android&andver=425&adreqfrm=sec",
+      "tn": "mixed",
+      "uid": "India-01",
+      "ct": "10", 
+      "secid": "-2128936835"
+    },
+    "psecid": "",
+    "ads": {
+      "mrec": "/7176/TOI_App_Android/TOI_App_AOS_India/TOI_App_AOS_IND_Mrec",
+      "header": "/7176/TOI_App_Android/TOI_App_AOS_India/TOI_App_AOS_IND_PT_ATF",
+      "ctnrecommended": "129084",
+      "ctnnativeshow": "247574",
+      "footer": "/7176/TOI_App_Android/TOI_App_AOS_India/TOI_App_AOS_IND_PT_BTF"
+    },
+    "tn": "news",
+    "hlts": [
+      "JJJJ someone is going to be hanged today or evicted out of his house, no other matter can be mentioned for urgent hearing: CJI Gogoi",
+      "Public Interest Litigation \"on every ill is not maintainable in the SC\": CJI Ranjan Gogoi"
+    ],
+    "id": "68000622",
+    "imageid": "66052596&pl=238050",
+    "hl": "'UUUUUnless someone is to be hanged, evicted': CJI Ranjan Gogoi on urgent hearings",
+    "ag": "TIMESOFINDIA.COM",
+    "dl": "1538555520000",
+    "dm": "t",
+    "wu": "https://timesofindia.indiatimes.com/india/no-urgent-mentioning-of-cases-allowed-cji-ranjan-gogoi/articleshow/66052595.cms",
+    "su": "http://toi.in/VXQb_a48/",
+    "syn": "\"Unless someone is going to be hanged today or evicted out of his house, no other matter can be mentioned for urgent hearing,\" Justice Ranjan Gogoi said soon after taking oath as the 46th Chief Justice of India. \"We will work out the parameters and then we will see as to how mentioning will be done,\" he added.",
+    "image": [
+      {
+        "id": "66052596",
+        "tn": "photo",
+        "dm": "t"
+      }
+    ],
+    "Story": "OLD DELHI: <a type=\"topic\" href=\"https://m.timesofindia.com/topic/Chief-Justice-of-India\">Chief Justice of India<\/a> (CJI) <a href=\"https://m.timesofindia.com/articleshow/66050067.cms\" dlhref=\"toireaderactivities://t/a/66050067\">  Ranjan Gogoi  <\/a> on Wednesday said \"parameters\" will be worked out for urgent mentioning and hearing of cases.<ad type=\"mrec\"><\/ad>\n\"Unless someone is going to be hanged today or evicted out of his house, no other matter can be mentioned for urgent hearing,\" Justice <a type=\"topic\" href=\"https://m.timesofindia.com/topic/ranjan-gogoi\">Ranjan Gogoi<\/a> said soon after taking oath as the 46th Chief Justice of India.\n\nStressing on the need to adjust certain parameters, Gogoi said \"no urgent mentioning of cases will be allowed\" till these (parameters) are fixed.\" At present, 20 minutes daily are reserved in the top court, for the same.\n\n  <a href=\"https://m.timesofindia.com/india/justice-ranjan-gogoi-praises-outgoing-cji-dipak-misra/articleshow/66029589.cms\" type=\"read_also\" id=\"66029589\" tn=\"news\" dm=\"t\" dlhref=\"toireaderactivities://t/a/66029589\">READ ALSO: Justice Ranjan Gogoi praises outgoing CJI Dipak Misra<\/a> \n\n\"We will work out the parameters then we will see as to how mentioning will be done,\" he added.\n\nThe first casualty of Gogoi's announcement was advocate Mathews Nedumpara who wanted to congratulate CJI as captain of the judiciary but CJI brushed him aside saying let's get on with work and that these congratulatory messages inside court are not done.\n\nNext in the casualty list was advocate <a type=\"topic\" href=\"https://m.timesofindia.com/topic/Prashant-Bhushan\">Prashant Bhushan<\/a>, who wanted to mention about the deportation of some Rohingya Muslims illegal immigrants. The CJI said file it and it will be listed.\n\nGogoi also said that Public Interest Litigation (PIL) \"on every ill is not maintainable in the SC\".\n\nEarlier today, President Ram Nath Kovind administered oath to the 63-year-old Justice Gogoi at a brief ceremony in Rashtrapati Bhavan's Darbar Hall. Justice Gogoi succeeds Justice Dipak Misra.\n\nJustice Gogoi will have a tenure of a little over 13 months and would retire on November 17, 2019.\n\n(With inputs from PTI)\n",
+    "recoarr": [
+      {
+        "id": "66052003",
+        "hl": "Will work out parameters for urgent mentioning and hearing of cases: CJI Ranjan Gogoi",
+        "imageid": "66052003",
+        "tn": "news",
+        "dm": "t",
+        "su": "http://toi.in/xTplTY/"
+      },
+      {
+        "id": "66052486",
+        "hl": "End misunderstanding among judges: Santosh Hegde to CJI Ranjan Gogoi",
+        "imageid": "66052486",
+        "tn": "news",
+        "dm": "t",
+        "su": "http://toi.in/ZkUEQZ9/"
+      },
+      {
+        "id": "66049151",
+        "hl": "Ranjan Gogoi sworn in as Chief Justice of India: All you need to know",
+        "imageid": "66049151",
+        "tn": "news",
+        "dm": "t",
+        "su": "http://toi.in/J93Zra44/"
+      },
+      {
+        "id": "65799680",
+        "hl": "President appoints Ranjan Gogoi as new Chief Justice of India",
+        "imageid": "65799680",
+        "tn": "news",
+        "dm": "t",
+        "su": "http://toi.in/x5Pq6Y/"
+      }
+    ]
+  }
+}
