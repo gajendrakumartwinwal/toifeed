@@ -1,79 +1,82 @@
-
 {
   "it": {
-    "upd": "1538565480000",
-    "lpt": "1538565537686",
-    "sec": "/india",
-    "secinfo": {
-      "name": "India",
-      "defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid-4440100,tag-alrt,uid-India-01,category-India-01.cms?platform=android&andver=425&adreqfrm=sec",
-      "tn": "mixed",
-      "uid": "India-01",
-      "ct": "10", 
-      "secid": "-2128936835"
-    },
-    "psecid": "",
+    "prxpt": "24",
+    "upd": "1544676600000",
+    "lpt": "1544676604094",
     "ads": {
-      "mrec": "/7176/TOI_App_Android/TOI_App_AOS_India/TOI_App_AOS_IND_Mrec",
-      "header": "/7176/TOI_App_Android/TOI_App_AOS_India/TOI_App_AOS_IND_PT_ATF",
-      "ctnrecommended": "129084",
-      "ctnnativeshow": "247574",
-      "footer": "/7176/TOI_App_Android/TOI_App_AOS_India/TOI_App_AOS_IND_PT_BTF"
+      "mrec": "/7176/Etimes_app_android/Etimes_app_aos_home/Etimes_APP_AOS_HP_Mrec",
+      "mrec1": "/7176/Etimes_app_android/Etimes_app_aos_home/Etimes_APP_AOS_HP_Mrec_1",
+      "mreclist": "/7176/Etimes_app_android/Etimes_app_aos_home/Etimes_APP_AOS_HP_Mrec_1",
+      "header": "/7176/Etimes_app_android/Etimes_app_aos_home/Etimes_APP_AOS_HP_ATF",
+      "ctnrecommended": "322080",
+      "ctnnativeshow": "129086",
+      "footer": "/7176/Etimes_app_android/Etimes_app_aos_home/Etimes_APP_AOS_HP_BTF",
+      "videoadshow": "https://pubads.g.doubleclick.net/gampad/ads?iu=/7176/TOI_App_Android/TOI_App_AOS_Entertainment/TOI_App_AOS_ENT_Video&description_url=[placeholder]&env=vp&impl=s&correlator=&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=300x400|320x240|320x480|400x300|400x315|420x315|480x320&unviewed_position_start=1"
     },
+    "sec": "/entertainment/hindi/bollywood/news",
     "tn": "news",
-    "hlts": [
-      "JJJJ someone is going to be hanged today or evicted out of his house, no other matter can be mentioned for urgent hearing: CJI Gogoi",
-      "Public Interest Litigation \"on every ill is not maintainable in the SC\": CJI Ranjan Gogoi"
-    ],
-    "id": "66152208",
-    "imageid": "66052596&pl=238050",
-    "hl": "'Gajju someone is to be hanged, evicted': CJI Ranjan Gogoi on urgent hearings",
-    "ag": "TIMESOFINDIA.COM",
-    "dl": "1538555520000",
+    "id": "67051734",
+    "imageid": "67051776&imgsize=487210",
+    "hl": "Photos: Arjun Kapoor snapped leaving rumoured beau Malaika Arora's residence",
+    "headline": {
+      "hl": "Photos: Arjun Kapoor snapped leaving rumoured beau Malaika Arora's residence",
+      "placement": "",
+      "cc": "#FFFFFF",
+      "fontsize": ""
+    },
+    "dl": "1544559360000",
+    "ag": "TNN",
     "dm": "t",
-    "wu": "https://timesofindia.indiatimes.com/india/no-urgent-mentioning-of-cases-allowed-cji-ranjan-gogoi/articleshow/66052595.cms",
-    "su": "http://toi.in/VXQb_a48/",
-    "syn": "\"Unless someone is going to be hanged today or evicted out of his house, no other matter can be mentioned for urgent hearing,\" Justice Ranjan Gogoi said soon after taking oath as the 46th Chief Justice of India. \"We will work out the parameters and then we will see as to how mentioning will be done,\" he added.",
-    "image": [
+    "wu": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/photos-arjun-kapoor-snapped-leaving-rumoured-beau-malaika-aroras-residence/articleshow/67051734.cms",
+    "su": "http://toi.in/VYrPob/",
+    "syn": "Arjun Kapoor and Malaika Arora never came out in open or denied their relationship. But looking at their PDA on social media and cosy dinner dates say a different story altogether. Recently, Arjun Kapoor was snapped as he made his way out from Malaika Arora's residence in Mumbai.",
+    "synopsys": {
+      "syn": "Arjun Kapoor and Malaika Arora never came out in open or denied their relationship. But looking at their PDA on social media and cosy dinner dates say a different story altogether. Recently, Arjun Kapoor was snapped as he made his way out from Malaika Arora's residence in Mumbai."
+    },
+    "vdo": [
       {
-        "id": "66052596",
-        "tn": "photo",
-        "dm": "t"
+        "id": "67038050",
+        "imageid": "67051776&imgsize=487210",
+        "cap": "Malaika Arora gives Arjun Kapoor some motivation to hit the gym!",
+        "tn": "video",
+        "du": "00:52",
+        "dm": "t",
+        "cc": "#FFFFFF"
       }
     ],
-    "Story": "OLD DELHI: <a type=\"topic\" href=\"https://m.timesofindia.com/topic/Chief-Justice-of-India\">Chief Justice of India<\/a> (CJI) <a href=\"https://m.timesofindia.com/articleshow/66050067.cms\" dlhref=\"toireaderactivities://t/a/66050067\">  Ranjan Gogoi  <\/a> on Wednesday said \"parameters\" will be worked out for urgent mentioning and hearing of cases.<ad type=\"mrec\"><\/ad>\n\"Unless someone is going to be hanged today or evicted out of his house, no other matter can be mentioned for urgent hearing,\" Justice <a type=\"topic\" href=\"https://m.timesofindia.com/topic/ranjan-gogoi\">Ranjan Gogoi<\/a> said soon after taking oath as the 46th Chief Justice of India.\n\nStressing on the need to adjust certain parameters, Gogoi said \"no urgent mentioning of cases will be allowed\" till these (parameters) are fixed.\" At present, 20 minutes daily are reserved in the top court, for the same.\n\n  <a href=\"https://m.timesofindia.com/india/justice-ranjan-gogoi-praises-outgoing-cji-dipak-misra/articleshow/66029589.cms\" type=\"read_also\" id=\"66029589\" tn=\"news\" dm=\"t\" dlhref=\"toireaderactivities://t/a/66029589\">READ ALSO: Justice Ranjan Gogoi praises outgoing CJI Dipak Misra<\/a> \n\n\"We will work out the parameters then we will see as to how mentioning will be done,\" he added.\n\nThe first casualty of Gogoi's announcement was advocate Mathews Nedumpara who wanted to congratulate CJI as captain of the judiciary but CJI brushed him aside saying let's get on with work and that these congratulatory messages inside court are not done.\n\nNext in the casualty list was advocate <a type=\"topic\" href=\"https://m.timesofindia.com/topic/Prashant-Bhushan\">Prashant Bhushan<\/a>, who wanted to mention about the deportation of some Rohingya Muslims illegal immigrants. The CJI said file it and it will be listed.\n\nGogoi also said that Public Interest Litigation (PIL) \"on every ill is not maintainable in the SC\".\n\nEarlier today, President Ram Nath Kovind administered oath to the 63-year-old Justice Gogoi at a brief ceremony in Rashtrapati Bhavan's Darbar Hall. Justice Gogoi succeeds Justice Dipak Misra.\n\nJustice Gogoi will have a tenure of a little over 13 months and would retire on November 17, 2019.\n\n(With inputs from PTI)\n",
+    "Story": "<a type=\"topic\" href=\"https://m.timesofindia.com/topic/Arjun-Kapoor\">Arjun Kapoor<\/a> and <a type=\"topic\" href=\"http://timesofindia.indiatimes.com/topic/Malaika-Arora\">Malaika Arora<\/a> never came out in open or denied their <a type=\"topic\" href=\"http://www.speakingtree.in/topics/life/relationship\">relationship<\/a>. But looking at their PDA on social media and cosy <a type=\"topic\" href=\"https://m.timesofindia.com/topic/dinner\">dinner<\/a> dates say a different story altogether. Recently, Arjun Kapoor was snapped as he made his way out from Malaika Arora's <a type=\"topic\" href=\"https://m.timesofindia.com/topic/residence\">residence<\/a> in Mumbai. \n\n\n <a href=\"https://m.timesofindia.com/entertainment/hindi/bollywood/news/photos-this-was-how-arjun-kapoor-treated-to-inside-malaika-aroras-home-last-night/articleshow/67060470.cms\" type=\"read_also\" id=\"67060470\" tn=\"news\" dm=\"t\" dlhref=\"toireaderactivities://t/a/67060470\">Photos: This is what Arjun Kapoor saw inside Malaika Arora's home last night<\/a> \n\nIn this pictures, you can see the 'Half-Girlfriend' actor in a black T-shirt and blue distressed jeans. He paired it with black sneakers and a cap. As he was making his way towards his car, the actor was approached by fans for selfies. \n\nCheck out the photos here\n<img src=\"https://timesofindia.indiatimes.com/photo.cms?photoid=67051749\" imageid=\"67051749\" h=\"2553.0\" w=\"1646.0\" /> \n\n\n<img src=\"https://timesofindia.indiatimes.com/photo.cms?photoid=67051749\" imageid=\"67051749\" h=\"2553.0\" w=\"1646.0\" /> \n\n\n<ad type=\"mrec\"><\/ad> <img src=\"https://timesofindia.indiatimes.com/photo.cms?photoid=67051774\" imageid=\"67051774\" h=\"1869.0\" w=\"1388.0\" /> \n\n\n\n<img src=\"https://timesofindia.indiatimes.com/photo.cms?photoid=67051775\" imageid=\"67051775\" h=\"2600.0\" w=\"1419.0\" /> \n\n  <a href=\"https://m.timesofindia.com/entertainment/hindi/bollywood/news/video-arjun-kapoor-and-malaika-arora-shook-a-leg-at-ranveer-singh-and-deepika-padukones-wedding-reception/articleshow/67016497.cms\" type=\"read_also\" id=\"67016497\" tn=\"news\" dm=\"t\" dlhref=\"toireaderactivities://t/a/67016497\">Video: Arjun Kapoor and Malaika Arora shook a leg at Deepika Padukone and Ranveer Singh's wedding reception<\/a> \nMeanwhile, there are reports doing the rounds on the Internet which states that the rumoured couple has invested in a flat together. <ad type=\"mrec\"><\/ad>\n<video type=\"kaltura\" src=\\\"{\\\"vr\\\":[{\\\"url\\\":\\\"http://slike-v.akamaized.net/1x/n8/1xn8qvsoll/hls/master.m3u8\\\",\\\"res\\\":\\\"auto\\\"},{\\\"url\\\":\\\"http://slike-v.akamaized.net/1x/n8/1xn8qvsoll/10d747d0a3_F30_480p_900.mp4\\\",\\\"res\\\":\"480\\\"},{\\\"url\\\":\\\"http://slike-v.akamaized.net/1x/n8/1xn8qvsoll/10d747d0a3_F40_360p_600.mp4\\\",\\\"res\\\":\\\"360\\\"},{\\\"url\\\":\\\"http://slike-v.akamaized.net/1x/n8/1xn8qvsoll/10d747d0a3_F51_240p_256.mp4\\\",\\\"res\\\":\\\"240\\\"},{\\\"url\\\":\\\"http://slike-v.akamaized.net/1x/n8/1xn8qvsoll/10d747d0a3_F60_144p_100.mp4\\\",\\\"res\\\":\\\"144\\\"},{\\\"url\\\":\\\"http://slike-v.akamaized.net/1x/n8/1xn8qvsoll/10d747d0a3_F70_96p_48.mp4\\\",\\\"res\\\":\\\"80\\\"}]}\\\" id=\"66919556\" imageid=\"66919556\" caption=\"Malaika Arora-Arjun Kapoor bump into Arbaaz Khan at Deepika Padukone-Ranveer Singh's reception\" cap=\"Malaika Arora-Arjun Kapoor bump into Arbaaz Khan at Deepika Padukone-Ranveer Singh's reception\" su=\"https://timesofindia.indiatimes.comvideos/entertainment/hindi/malaika-arora-arjun-kapoor-bump-into-arbaaz-khan-at-deepika-padukone-ranveer-singhs-reception/videoshow/66919556.cms\" du=\"00:58\"><\/video> \n",
     "recoarr": [
       {
-        "id": "66052003",
-        "hl": "Will work out parameters for urgent mentioning and hearing of cases: CJI Ranjan Gogoi",
-        "imageid": "66052003",
+        "id": "67567355",
+        "hl": "Photos: Kareena Kapoor Khan, Malaika Arora, Arjun Kapoor and others party at Karan Johar’s residence",
+        "imageid": "67567355",
         "tn": "news",
         "dm": "t",
-        "su": "http://toi.in/xTplTY/"
+        "su": "http://toi.in/kZUJyb/"
       },
       {
-        "id": "66052486",
-        "hl": "End misunderstanding among judges: Santosh Hegde to CJI Ranjan Gogoi",
-        "imageid": "66052486",
+        "id": "67873176",
+        "hl": "After partying hard, Malaika Arora and Arjun Kapoor step out for a dinner date; see photos",
+        "imageid": "67873176",
         "tn": "news",
         "dm": "t",
-        "su": "http://toi.in/ZkUEQZ9/"
+        "su": "http://toi.in/30s1na/"
       },
       {
-        "id": "66049151",
-        "hl": "Ranjan Gogoi sworn in as Chief Justice of India: All you need to know",
-        "imageid": "66049151",
+        "id": "67595687",
+        "hl": "Photos: Arjun Kapoor and Malaika Arora snapped while making their way towards a restaurant",
+        "imageid": "67595687",
         "tn": "news",
         "dm": "t",
-        "su": "http://toi.in/J93Zra44/"
+        "su": "http://toi.in/trQk7a/"
       },
       {
-        "id": "65799680",
-        "hl": "President appoints Ranjan Gogoi as new Chief Justice of India",
-        "imageid": "65799680",
+        "id": "67212662",
+        "hl": "Arjun Kapoor and Malaika Arora arrive together at Ritesh Sidhwani's Christmas bash; see photos",
+        "imageid": "67212662",
         "tn": "news",
         "dm": "t",
-        "su": "http://toi.in/x5Pq6Y/"
+        "su": "http://toi.in/uCReRa/"
       }
     ]
   }
